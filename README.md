@@ -1,4 +1,4 @@
-# Feyenoord — Wat deed je vandaag?
+# Feyenoord, wat deed je vandaag?
 
 Een app van Sportgeschiedenis.nl die onderzoekt wat Feyenoord in de geschiedenis deed — met gebruik van foto's van het Nationaal Archief.
 
