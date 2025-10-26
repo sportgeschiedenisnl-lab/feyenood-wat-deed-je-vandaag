@@ -1,0 +1,5 @@
+{
+  "name": "Feyenoord, wat deden we vandaag?",
+  "description": "Een webapplicatie die historische Feyenoord-foto's uit het Nationaal Archief toont voor een geselecteerde datum, samengevat door Gemini AI.",
+  "requestFramePermissions": []
+}
